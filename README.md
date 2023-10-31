@@ -2,7 +2,7 @@
 This project was my team's final submission for the UBC Sauder School of Business Master of Business Analytics BAIT 508 course. 
 
 # Description
-The goal of this project was to conduct an in-depth analysis of public US firms within the food stores sector using various data analyses and natural language processing (NLP) techniques. 
+The goal of this project was to conduct an in-depth analysis of public US firms within the food stores sector 🍕 using various data analyses and natural language processing (NLP) techniques.
 
 # Data
 Data for this project includes the file _'2020_10K_item1_full.csv'_, which contains a sample of 5,988 firms and their 2020 10-K report 'item 1' content. _'public_firms.csv'_ is another dataset which includes information on public US firms categorized by their industry sectors, corresponding to the first two digits of their SIC codes. 
